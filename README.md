@@ -1,5 +1,9 @@
 # UI/UX Design Related Information
 
+## Design Tools
+1. [Figma](https://www.figma.com/)
+2. [Adobe XD](https://www.adobe.com/products/xd.html)
+
 ## Free fonts
 1. [fontspace.com](http://fontspace.com)
 2. [fontsquirrel.com](http://fontsquirrel.com)
