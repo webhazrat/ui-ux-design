@@ -7,10 +7,11 @@
 ## Road Map of Figma
 1. Tools
 2. Aligments
-3. Constraints
-4. Variants
-5. Auto Layout
-6. Prototype
+3. Component
+4. Constraints
+5. Variants
+6. Auto Layout
+7. Prototype
 
 ## Free fonts
 1. [fontspace.com](http://fontspace.com)
