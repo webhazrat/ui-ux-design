@@ -6,7 +6,7 @@
 
 ## Road Map of Figma
 1. Tools
-2. Style Guide [TailwindInk](https://tailwind.ink/)
+2. Design System - Style Guide [TailwindInk](https://tailwind.ink/)
 4. Aligments
 5. Layout Grid
 6. Component
