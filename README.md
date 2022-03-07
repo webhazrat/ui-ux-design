@@ -4,6 +4,14 @@
 1. [Figma](https://www.figma.com/)
 2. [Adobe XD](https://www.adobe.com/products/xd.html)
 
+## Road Map of Figma
+1. Tools
+2. Aligments
+3. Constraints
+4. Variants
+5. Auto Layout
+6. Prototype
+
 ## Free fonts
 1. [fontspace.com](http://fontspace.com)
 2. [fontsquirrel.com](http://fontsquirrel.com)
