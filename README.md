@@ -6,13 +6,14 @@
 
 ## Road Map of Figma
 1. Tools
-2. Aligments
-3. Layout Grid
-4. Component
-5. Constraints
-6. Variants
-7. Auto Layout
-8. Prototype
+2. Style Guide [TailwindInk](https://tailwind.ink/)
+4. Aligments
+5. Layout Grid
+6. Component
+7. Constraints
+8. Variants
+9. Auto Layout
+10. Prototype
 
 ## Free fonts
 1. [fontspace.com](http://fontspace.com)
