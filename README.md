@@ -4,9 +4,9 @@
 1. [Unsplash](https://unsplash.com/)
 2. [Videvo](https://www.videvo.net/)
 3. [Videezy](https://www.videezy.com/)
-4. [Unsplash](https://unsplash.com/)
-5. [Unsplash](https://unsplash.com/)
-6. [Unsplash](https://unsplash.com/)
+4. [Dareful](https://dareful.com/)
+5. [Pixabay](https://pixabay.com/)
+6. [Pexels](https://www.pexels.com/)
 
 ## Design Tools
 1. [Figma](https://www.figma.com/)
