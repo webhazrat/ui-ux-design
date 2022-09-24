@@ -8,6 +8,9 @@
 5. [Pixabay](https://pixabay.com/)
 6. [Pexels](https://www.pexels.com/)
 
+## Free Unicode Emoji
+1. [https://unicode.org/emoji/charts/full-emoji-list.html](https://unicode.org/emoji/charts/full-emoji-list.html)
+
 ## Design Tools
 1. [Figma](https://www.figma.com/)
 2. [Adobe XD](https://www.adobe.com/products/xd.html)
