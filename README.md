@@ -26,6 +26,9 @@
 9. Auto Layout
 10. Prototype
 
+### For components
+1. Properties -> variants, text, boolean, instance swap
+
 ## All illustrations support
 [Web Link](https://bluevertigo.com.ar/)
 
