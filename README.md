@@ -28,6 +28,7 @@
 
 ### For components
 1. Properties -> variants, text, boolean, instance swap
+   We can add components variants - as a naming conventions
 
 ## All illustrations support
 [Web Link](https://bluevertigo.com.ar/)
