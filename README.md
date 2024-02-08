@@ -15,6 +15,14 @@
 1. [Figma](https://www.figma.com/)
 2. [Adobe XD](https://www.adobe.com/products/xd.html)
 
+## Icons
+1. [LucideIcon](https://lucide.dev/icons/)
+2. [HeroIcon](https://heroicons.com/)
+3. [FeatherIcon](https://feathericons.com/)
+4. [FontawesomeIcon](https://fontawesome.com/icons)
+5. [TablerIcon](https://tabler.io/icons)
+6. [BootstrapIcon](https://icons.getbootstrap.com/)
+
 ## Road Map of Figma
 1. Tools
 2. Design System - Style Guide [TailwindInk](https://tailwind.ink/)
