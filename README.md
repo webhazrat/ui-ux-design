@@ -22,6 +22,7 @@
 4. [FontawesomeIcon](https://fontawesome.com/icons)
 5. [TablerIcon](https://tabler.io/icons)
 6. [BootstrapIcon](https://icons.getbootstrap.com/)
+7. [HugeIcon](https://hugeicons.com/icons?style=Stroke&type=Rounded)
 
 ## Road Map of Figma
 1. Tools
