@@ -24,6 +24,7 @@
 6. [BootstrapIcon](https://icons.getbootstrap.com/)
 7. [HugeIcon](https://hugeicons.com/icons?style=Stroke&type=Rounded)
 8. [RemixIcon](https://remixicon.com/)
+9. [EverIcon](http://www.evericons.com/)
 
 ## Road Map of Figma
 1. Tools
