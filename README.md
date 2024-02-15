@@ -25,6 +25,7 @@
 7. [HugeIcon](https://hugeicons.com/icons?style=Stroke&type=Rounded)
 8. [RemixIcon](https://remixicon.com/)
 9. [EverIcon](http://www.evericons.com/)
+10. [IconifyIcon](https://iconify.design/)
 
 ## Road Map of Figma
 1. Tools
