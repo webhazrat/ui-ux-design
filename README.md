@@ -26,6 +26,7 @@
 8. [RemixIcon](https://remixicon.com/)
 9. [EverIcon](http://www.evericons.com/)
 10. [IconifyIcon](https://iconify.design/)
+11. [LordIcon](https://lordicon.com/icons)
 
 ## Road Map of Figma
 1. Tools
