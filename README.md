@@ -34,6 +34,9 @@
 11. [LordIcon](https://lordicon.com/icons)
 12. [UseAnimationsIcon](https://useanimations.com/)
 
+## Brand Logos
+1. [WorldVectorLogo](https://worldvectorlogo.com/)
+
 ## Road Map of Figma
 1. Tools
 2. Design System - Style Guide [TailwindInk](https://tailwind.ink/)
